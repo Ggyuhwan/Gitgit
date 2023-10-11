@@ -67,8 +67,19 @@
     -항목1-1
 ```
 
--항목1
--항목1-1
+- 항목1
+- 항목1-1
 
 13.이모지 추가하기 관련 URL
+
 [이모지검색 및 다운로드 사이트](https://emojipedia.org/)
+- 오늘 날씨는 🌞
+- 나는 오늘🐼💻 열심히 해서😊
+
+14.뱃지 추가
+[배지 달기 (언어, 기술, 개발 도구, 자격)](https://simpleicons.org)
+``` 배지 샘플 <img sec="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" />```
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
+- style 배지모양(plastic, flat, flat-square, for-the-badge, social), logo 정식모양 사이트참조, logoColor 컬럼
